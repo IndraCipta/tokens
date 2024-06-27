@@ -1,0 +1,15 @@
+
+:root {
+    --colorGreenNormalActive: #069f8a;    
+    --colorGreenLight: #e6f6f4;    
+    --colorGreenLightHover: #d9f2ef;    
+    --colorGreenLightActive: #b0e4dd;    
+    --colorGreenNormal: #00a991;    
+    --colorGreenNormalHover: #009883;    
+    --colorGreenDark: #007f6d;    
+    --colorGreenDarkHover: #006557;    
+    --colorGreenDarkActive: #004c41;    
+    --colorGreenDarker: #003b33;    
+    --colorColorStroke: #f30202;    
+    --colorColorUngu: #d32a99;    
+}
